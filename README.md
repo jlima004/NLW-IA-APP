@@ -1,6 +1,6 @@
 # NLW IA APP
 
-### 🚀 Aplicação que gera título e resumo para vídeos do YouTube através de Inteligência Artificial
+### 🚀 Aplicação que utiliza IA generativa que criar títulos e resumos para vídeos do YouTube
 
 > Para usar a interface é necessário executar a aplicação Front End
  
